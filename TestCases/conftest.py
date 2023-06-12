@@ -37,3 +37,6 @@ def log_on_failure(request, appium_driver):
     driver = appium_driver
     if item.rep_call.failed:
         allure.attach(driver.get_screenshot_as_png(), name="screenshot", attachment_type=AttachmentType.PNG)
+
+
+
