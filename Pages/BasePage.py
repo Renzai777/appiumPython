@@ -15,7 +15,7 @@ class BasePage:
         self.driver = driver
 
 
-    #This is the click method
+    #This is the click metho
     def click(self, locator):
         if str(locator).endswith("_XPATH"):
             self.driver.find_element(By.XPATH, configReader.readConfig("locator", locator)).click()
