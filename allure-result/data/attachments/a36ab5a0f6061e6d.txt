@@ -1,0 +1,5 @@
+INFO     Pages.BasePage:BasePage.py:26 Clicking on an Element permissionDialog_XPATH
+INFO     Pages.BasePage:BasePage.py:26 Clicking on an Element existingUser_XPATH
+INFO     Pages.BasePage:BasePage.py:35 Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+INFO     Pages.BasePage:BasePage.py:35 Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+INFO     Pages.BasePage:BasePage.py:26 Clicking on an Element signIN_XPATH

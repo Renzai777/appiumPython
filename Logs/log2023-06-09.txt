@@ -1,0 +1,142 @@
+2023-06-09 15:51:46,939 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 15:51:52,953 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 15:51:53,009 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-09 15:51:53,540 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-09 15:51:58,212 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 15:52:15,505 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 15:52:21,501 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 15:52:21,551 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7993147200
+2023-06-09 15:52:22,079 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 15:52:27,341 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 15:52:44,813 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 15:52:50,646 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 15:52:51,409 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 8861202427
+2023-06-09 15:52:51,939 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 15:52:55,022 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 15:53:12,414 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 15:53:18,450 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 15:53:18,504 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7387342890
+2023-06-09 15:53:19,031 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 986040
+2023-06-09 15:53:23,396 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:18:09,336 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:18:14,440 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:18:15,453 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-09 16:18:16,045 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-09 16:18:18,369 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:18:21,282 - BasePage.py:[24] - [INFO] - Clicking on an Element myProducts_XPATH
+2023-06-09 16:18:41,294 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:18:47,280 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:18:47,459 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7993147200
+2023-06-09 16:18:48,029 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:18:50,600 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:18:54,788 - BasePage.py:[24] - [INFO] - Clicking on an Element myProducts_XPATH
+2023-06-09 16:19:15,551 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:19:20,826 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:19:21,784 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 8861202427
+2023-06-09 16:19:22,351 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:19:25,180 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:19:28,444 - BasePage.py:[24] - [INFO] - Clicking on an Element myProducts_XPATH
+2023-06-09 16:19:48,811 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:19:54,774 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:19:54,946 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7387342890
+2023-06-09 16:19:55,518 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 986040
+2023-06-09 16:19:58,338 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:20:08,527 - BasePage.py:[24] - [INFO] - Clicking on an Element myProducts_XPATH
+2023-06-09 16:24:23,187 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:24:29,098 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:24:29,281 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-09 16:24:29,839 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-09 16:24:34,318 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:25:05,923 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:25:11,979 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:25:12,158 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7993147200
+2023-06-09 16:25:12,719 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:25:16,133 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:25:48,542 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:25:53,748 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:25:54,697 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 8861202427
+2023-06-09 16:25:55,239 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:25:57,799 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:26:30,784 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:26:36,907 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:26:37,024 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7387342890
+2023-06-09 16:26:37,600 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 986040
+2023-06-09 16:26:38,274 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:31:23,916 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:31:29,938 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:31:30,141 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-09 16:31:30,699 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-09 16:31:34,193 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:32:06,351 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:32:12,421 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:32:12,582 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7993147200
+2023-06-09 16:32:13,153 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:32:18,246 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:32:49,776 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:32:55,088 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:32:56,058 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 8861202427
+2023-06-09 16:32:56,630 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:33:00,785 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:33:33,936 - BasePage.py:[24] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:33:40,046 - BasePage.py:[24] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:33:40,268 - BasePage.py:[33] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7387342890
+2023-06-09 16:33:40,828 - BasePage.py:[33] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 986040
+2023-06-09 16:33:45,069 - BasePage.py:[24] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:43:48,437 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:43:53,720 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:43:54,707 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-09 16:43:55,273 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-09 16:43:58,571 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:44:18,375 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:44:24,456 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:44:24,620 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7993147200
+2023-06-09 16:44:25,189 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:44:25,758 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:44:45,644 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:44:51,701 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:44:51,860 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 8861202427
+2023-06-09 16:44:52,416 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:44:57,888 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:45:17,262 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:45:23,568 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:45:23,741 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7387342890
+2023-06-09 16:45:24,309 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 986040
+2023-06-09 16:45:28,981 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:46:24,042 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:46:30,145 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:46:30,298 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-09 16:46:30,860 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-09 16:46:35,927 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:50:27,390 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:50:33,377 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:50:33,439 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-09 16:50:33,999 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-09 16:50:36,542 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:50:38,907 - BasePage.py:[26] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR
+2023-06-09 16:51:01,110 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:51:07,081 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:51:07,136 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7993147200
+2023-06-09 16:51:07,666 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:51:11,955 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:51:12,857 - BasePage.py:[26] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR
+2023-06-09 16:51:30,278 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:51:36,246 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:51:36,303 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 8861202427
+2023-06-09 16:51:36,833 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 123456
+2023-06-09 16:51:41,564 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:51:41,874 - BasePage.py:[26] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR
+2023-06-09 16:51:59,588 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 16:52:05,565 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 16:52:05,623 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 7387342890
+2023-06-09 16:52:06,147 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 986040
+2023-06-09 16:52:10,601 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 16:52:11,863 - BasePage.py:[26] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR
+2023-06-09 17:07:52,451 - BasePage.py:[26] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-09 17:13:47,730 - BasePage.py:[26] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-09 17:13:47,788 - BasePage.py:[35] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-09 17:13:48,318 - BasePage.py:[35] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-09 17:13:50,684 - BasePage.py:[26] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-09 17:34:58,718 - BasePage.py:[26] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR
+2023-06-09 17:40:41,349 - BasePage.py:[26] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR
+2023-06-09 20:11:46,638 - BasePage.py:[26] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR
+2023-06-09 21:04:33,411 - BasePage.py:[26] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR
