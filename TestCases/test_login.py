@@ -11,6 +11,7 @@ class Test_Login(BaseTest):
     @pytest.mark.parametrize("mobileNumber, pin", dataProvider.get_data("loginTest"))
     def test_login(self,mobileNumber,pin):
         login = LoginScreen(self.driver)
+        #Added comments
         login.login(mobileNumber, pin)
 
 
