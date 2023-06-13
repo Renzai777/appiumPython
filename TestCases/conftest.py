@@ -21,7 +21,7 @@ def appium_driver(request):
     desired_caps['deviceName'] = 'Android'
     desired_caps['appPackage'] = 'com.havells.havellsone'
     desired_caps['appActivity'] = '.MainActivity'
-    # desired_caps['noReset'] = True
+    desired_caps['noReset'] = True
     driver = webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)
     request.cls.driver = driver
     driver.implicitly_wait(10)

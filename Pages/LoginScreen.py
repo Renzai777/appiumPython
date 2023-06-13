@@ -9,7 +9,7 @@ class LoginScreen(BasePage):
 
 
     def login(self,mobileNumber,pin):
-        self.click("permissionDialog_XPATH")
+        # self.click("permissionDialog_XPATH")
         self.click("existingUser_XPATH")
         self.type("enterMobileNumber_XPATH", mobileNumber)
         self.type("enterSixDigitPin_XPATH", pin)

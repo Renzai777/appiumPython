@@ -1,0 +1,11 @@
+2023-06-13 11:07:36,412 - BasePage.py:[28] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-13 11:07:42,346 - BasePage.py:[28] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-13 11:07:42,412 - BasePage.py:[37] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-13 11:07:42,941 - BasePage.py:[37] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-13 11:07:47,449 - BasePage.py:[28] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-13 11:08:31,380 - BasePage.py:[28] - [INFO] - Clicking on an Element permissionDialog_XPATH
+2023-06-13 11:09:47,641 - BasePage.py:[28] - [INFO] - Clicking on an Element existingUser_XPATH
+2023-06-13 11:09:48,429 - BasePage.py:[37] - [INFO] - Type in an Element enterMobileNumber_XPATH entered the value as: 9003481458
+2023-06-13 11:09:48,964 - BasePage.py:[37] - [INFO] - Type in an Element enterSixDigitPin_XPATH entered the value as: 900348
+2023-06-13 11:09:51,404 - BasePage.py:[28] - [INFO] - Clicking on an Element signIN_XPATH
+2023-06-13 11:10:31,505 - BasePage.py:[28] - [INFO] - Clicking on an Element myProducts_ANDROID_UIAUTOMATOR

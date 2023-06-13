@@ -1,0 +1,1 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:28 Clicking on an Element permissionDialog_XPATH
