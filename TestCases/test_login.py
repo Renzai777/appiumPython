@@ -8,6 +8,7 @@ from Utilities import dataProvider
 class Test_Login(BaseTest):
 
     @pytest.mark.usefixtures("log_on_failure")
+    @pytest.mark.run(order=1)
     @pytest.mark.parametrize("mobileNumber, pin", dataProvider.get_data("loginTest"))
     def test_login(self,mobileNumber,pin):
         login = LoginScreen(self.driver)
